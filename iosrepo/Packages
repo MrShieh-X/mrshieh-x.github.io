@@ -1,0 +1,132 @@
+Package: com.msxir.afc2forios11to13
+Version: 1.3.1
+Architecture: iphoneos-arm
+Maintainer: MrShiehX <Bntoylrot@outlook.com>
+Installed-Size: 672
+Pre-Depends: dpkg (>= 1.14.25-8)
+Depends: cy+cpu.arm64, mobilesubstrate, ldid
+Conflicts: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.wxhbts.afc2forios12
+Replaces: com.saurik.afc2d, net.angelxwind.afc2d-arm64, com.mrmadtw.afc2forios11, repo.feng.afc2add11, us.scw.afctwoadd, net.angelxwind.afc2ios70, afc2.25pp, afc2.25pp7, afc2.91, app.taig.afc2, com.wxhbts.afc2forios12
+Filename: debs/com.msxir.afc2forios11to13_1.3.1_iphoneos-arm.deb
+Size: 13616
+MD5sum: 1551997410e4e78fd8ec0f4aa85b9fda
+SHA1: 253916dd94d3528bbceffdddc2ac2e287c9a5c00
+SHA256: 479e0141581c56776260d007495bb5245651ee9a345cdceb3f346674734da85b
+Section: System
+Description: 安装后可以在PC端访问设备文件。
+Author: Saurik, Cannathea
+Name: AFC2 For iOS11~13
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
+Package: com.msxir.appsyncunified
+Version: 70.0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: MrShiehX <Bntoylort@outlook.com>
+Installed-Size: 384
+Depends: firmware (>= 5.0), mobilesubstrate
+Conflicts: com.ex.substitute (<< 0.0.13), com.ex.libsubstitute (<= 0.1.0-coolstar), app.weiphone.cn.appsync, com.myrepospace.aptso.appsync, us.hackulo.appsync50, us.hackulo.appsync50plus, ppsync.178, app.weiphone.hackyouriphone.appsync7, net.angelxwind.appsync70plus, com.teiron.ppsync, com.91.appsync7.a5a4, com.91.appsync7.a6, com.91.appsync7.a7, net.angelxwind.appsyncunified, app.weiphone.lzl.appsync456, us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, appsync50plus2.25pp, com.hackyouriphone.appsyncunified, appsync70.appvv, cn.appsync, com.linusyang.appsync, com.cydiaapp.appsyncunified, com.repo.xarold.com.appsyncunified, com.abcydia.appsyncunified10, apt.cydiaba.comappsync10, net.angelxwind.appsync40plus, cn.crak.appsyncunified, apt.abc.cn.583, crak.angelxwind.appsyncunified, hk.appsyncunified, apt.abc.cn.79, cn.yttxcs.appsyncunified, top.margua.appsyncunified, cn.iwba.appsyncunified10, apt.cydiakk.appsyncunified10, net.wxhbts.appsyncunified, com.cydiami.appsyncunified, com.cydia.love.appsyncunified10, com.cydiabc.appsyncunified, net.hk.angelxwind.appsyncunified, com.iphoneba.appsyncunified, aptso.cn.appsync
+Filename: debs/com.msxir.appsyncunified_70.0_iphoneos-arm.deb
+Size: 26596
+MD5sum: 43b3d823d6fe0a434317094a8d5cbac1
+SHA1: 705687f49c2bf19a8654797caf954653d1ea667f
+SHA256: 9f1cc03901c57858516a33e53325ff364443097ae69eba338dc34ac7976b51da
+Section: System
+Priority: standard
+Description: 允许安装未签名的 iOS 应用程序。
+Author: Linus Yang, Karen Tsai
+Name: AppSync Unified 关闭签名
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
+Package: com.msxir.cydown
+Version: 7.0.6
+Architecture: iphoneos-arm
+Maintainer: MrShiehX <Bntoylort@outlook.com>
+Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
+Filename: debs/com.msxir.cydown_7.0.6_iphoneos-arm.deb
+Size: 2424708
+MD5sum: 74b88b387eacb8e86d07645d90be52d2
+SHA1: b935a4f40e7fd5bfc480a5edc0aba3759e763cc5
+SHA256: 4249775b405ef04827ee141934d076f3c613806970406c40a657f2cd6c96f6de
+Section: Utilities
+Description: 破解收费插件、下载deb包等功能。
+Author: julioverne
+Name: CyDown 破解收费插件
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
+Package: com.msxir.filza
+Version: 3.7.3-16
+Architecture: iphoneos-arm
+Maintainer: MrShieh <Bntoylort@outlook.com>
+Installed-Size: 30728
+Depends: zip, unzip, gzip, unrar, p7zip
+Conflicts: com.tigisoftware.filza64bit, com.tigisoftware.filza
+Provides: com.tigisoftware.filza64bit, com.tigisoftware.filza
+Filename: debs/com.msxir.filza_3.7.3-16_iphoneos-arm.deb
+Size: 10146528
+MD5sum: fec2d48c217a4fc97906b4e53650e059
+SHA1: 32bfdfc77b5f3ea452ad4b4f54d5dbb26809174a
+SHA256: 92a1528eb37ac3c2b9ae58ca0fec8534935a29f02653da0da33132f71d22e867
+Section: Utilities
+Description: iOS 的文件管理器，支持 iOS7 以上。
+Author: TIGI Software
+Name: Filza 文件管理器
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
+Package: com.msxir.installer
+Version: 5.0.1
+Architecture: iphoneos-arm
+Maintainer: MrShiehX <Bntoylort@outlook.com>
+Depends: firmware (>= 10.0)
+Conflicts: me.apptapp.installer
+Provides: me.apptapp.installer
+Filename: debs/com.msxir.installer_5.0.1_iphoneos-arm.deb
+Size: 25208784
+MD5sum: 1610e261b64f0702de9664d08f9c3d59
+SHA1: 26281c2ea66335ad88507873c745ba427af4d4f8
+SHA256: a70f74ed50ca7aa41c69e3ae3ed0133963a677f67f5c896f20ed2aadf677ed21
+Section: Packaging
+Description: 一个类似于 Cydia 的软件包管理器。
+Author: AppTapp <support@apptapp.me>
+Icon: https://mrshieh.xyz/mobile/iosrepo/installer.png
+Name: Installer
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
+Package: com.msxir.libertylitebeta
+Version: 0.2.12b
+Architecture: iphoneos-arm
+Maintainer: MrShiehX <Bntoylort@outlook.com>
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.wxhbts.libertylitebeta
+Provides: com.wxhbts.libertylitebeta
+Filename: debs/com.msxir.libertylitebeta_0.2.12b_iphoneos-arm.deb
+Size: 42344
+MD5sum: 8f4176880a0c5ab85e7b5a7177a7f6b6
+SHA1: b11c6831ddd9edfd5b18d77f0e1c4977404426aa
+SHA256: 85176023383ef22591ac63056358b43733e7c1bc154cf7fb747f162b6fe6e7bd
+Section: Tweaks
+Description: 安装后会开启微信指纹支付等功能。
+Author: Ryley Angus
+Name: Liberty Lite (Beta) 屏蔽越狱检测
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
+Package: com.msxir.newterm2
+Version: 2.4
+Architecture: iphoneos-arm
+Maintainer: MrShieh <Bntoylort@outlook.com>
+Installed-Size: 6792
+Depends: firmware (>= 10.0), firmware (>= 12.2) | org.swift.libswift, ws.hbang.common (>= 1.13), bash, coreutils, ncurses, system-cmds, com.linusyang.localeutf8
+Conflicts: ws.hbang.newterm, com.abcydia.newterm2, com.wxhbts.newterm2
+Replaces: ws.hbang.newterm
+Filename: debs/com.msxir.newterm2_2.4_iphoneos-arm.deb
+Size: 2181824
+MD5sum: b1db182956c18a56d3c7f684b8b30fff
+SHA1: 6d10a34d98e06536a0f0cb367f6395cfdd726932
+SHA256: fee03a9dc85876450404529f0b0546053bc84b2a4b7c7b1d738201e8c1b0f7cf
+Section: Utilities
+Description: 运行在 iOS 上的终端。
+Author: HASHBANG
+Name: NewTerm 2 终端
+Sponsor: MrShiehX <Bntoylort@outlook.com>
+
