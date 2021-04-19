@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+	<meta charset="utf-8">
+	<meta name="author" content="MrShiehX">
+	<meta name="description" content="MSXW">
+	<title>主页 - MSXW</title>
+</head>
+<body>
+	<script type="text/javascript">
+		window.location.href = "https://www.mrshiehx.xyz";
+	</script>
+</body>
+</html>
